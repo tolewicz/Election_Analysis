@@ -20,7 +20,7 @@ cwinning_percentage = 0
 
 
 # calling path to election results file
-csvpath_to_read = os.path.join('..','Election_Analysis','election_results.csv')
+csvpath_to_read = os.path.join('Resources','election_results.csv')
 
 #opening the file and assigning is as variable
 with open(csvpath_to_read) as file_to_read:
@@ -58,7 +58,7 @@ with open(csvpath_to_read) as file_to_read:
 
 
 #opening a text file to save results
-file_to_save = os.path.join('..','Election_Analysis', 'election_analysis.txt')
+file_to_save = os.path.join('Resources', 'election_analysis.txt')
 with open(file_to_save, "w") as txt_file:
 
 #printing # of total votes in terminal
