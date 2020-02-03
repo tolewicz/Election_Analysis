@@ -6,6 +6,7 @@ A Colorado Board Elections employee requested following task to complete the aud
 ##Resources
 -	Data source: election_results.cvs
 -	Software: Python 3.7.6, Visual studio code
+- PyPoll_Challenge.py program 
 ## Summary
 The analysis of the elections shows that: 
 -	Total number of votes was 369,711
