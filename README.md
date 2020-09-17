@@ -1,4 +1,4 @@
-## Election_Analysis
+## Elections_Analysis
 ## Project Overview
 A Colorado Board Elections employee requested following task to complete the audit of a recent local congressional election:
 1.	Calculate the total vote count 
