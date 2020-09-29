@@ -3,10 +3,13 @@
 A Colorado Board Elections employee requested following task to complete the audit of a recent local congressional election:
 1.	Calculate the total vote count 
 2.	Determine the winner of the elections
-##Resources
+Utilizing Python program to calculate results of elections.
+
+## Resources
 -	Data source: election_results.cvs
 -	Software: Python 3.7.6, Visual studio code
 - PyPoll_Challenge.py program 
+
 ## Summary
 The analysis of the elections shows that: 
 -	Total number of votes was 369,711
